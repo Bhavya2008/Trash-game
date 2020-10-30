@@ -1,2 +1,2 @@
-# Trash-game
-press up arrow key
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
